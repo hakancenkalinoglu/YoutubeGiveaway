@@ -1,3 +1,3 @@
 # YoutubeGiveaway
 
-Giveaway app in Youtube Live Chat.
+Giveaway app for Youtube Live Chat.
